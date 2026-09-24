@@ -1,0 +1,85 @@
+{
+ "sizes": [
+  "h518w518",
+  "h518w686",
+  "h686w518",
+  "h518w784",
+  "h784w518",
+  "h518w924",
+  "h924w518",
+  "h518w826",
+  "h826w518"
+ ],
+ "images": {
+  "street": {
+   "width": 800,
+   "height": 532,
+   "input": "h518w784",
+   "exported": true,
+   "range": [
+    0.0,
+    5.444634914398193
+   ]
+  },
+  "small": {
+   "width": 640,
+   "height": 425,
+   "input": "h518w784",
+   "exported": true,
+   "range": [
+    0.0,
+    4.671133995056152
+   ]
+  },
+  "square": {
+   "width": 800,
+   "height": 800,
+   "input": "h518w518",
+   "exported": true,
+   "range": [
+    0.0,
+    11.241780281066895
+   ]
+  },
+  "wide169": {
+   "width": 800,
+   "height": 450,
+   "input": "h518w924",
+   "exported": true,
+   "range": [
+    0.5197664499282837,
+    5.327868461608887
+   ]
+  },
+  "wide43": {
+   "width": 800,
+   "height": 600,
+   "input": "h518w686",
+   "exported": true,
+   "range": [
+    0.0,
+    4.598316192626953
+   ]
+  },
+  "tall34": {
+   "width": 600,
+   "height": 800,
+   "input": "h686w518",
+   "exported": true,
+   "range": [
+    0.0,
+    4.370291709899902
+   ]
+  },
+  "tall916": {
+   "width": 450,
+   "height": 800,
+   "input": "h924w518",
+   "exported": true,
+   "range": [
+    0.0,
+    7.967634201049805
+   ]
+  }
+ }
+}
